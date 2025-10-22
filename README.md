@@ -27,6 +27,11 @@ configuration, etc)
 - Customer expects to use the same gold image,
 just implement different app requirements
 
+# Resources
+Private link for Google Presentation:
+https://docs.google.com/presentation/d/1ojwF2MvQR0BcpCtyBuUmXA-CcS2BXUEF5jbwYvohhx4/edit?usp=sharing
+
+# Presentation Overview
 ## Pain Points
 - Hardware lifecycle is manual, slow, and painful to complete
 - Existing process requires many teams to consistently work together
