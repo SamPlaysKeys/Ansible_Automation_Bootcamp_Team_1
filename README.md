@@ -74,3 +74,22 @@ timeline
 8 Month : Develop automation for provisioning : Develop Playbooks & Workflow : Create & Configure APIs/Webhooks : Develop EDA Rulebook
 2 Weeks  : 
 ```
+
+## Content Development Strategy
+1. Create GitLab repository
+2. Create dynamic inventories sourced from ServiceNow
+3. Develop playbooks (covered in next slides)
+4. Create workflow
+
+### AAP Workflow
+
+>[!note]
+>Convert to AAP workflow screenshot
+>Workflow launched by EDA
+
+1. ITSM ticket details as extra_vars > create DNS records
+2. Golden Image based on OS 
+3. Branches to different playbook depending on application 
+4. Close/update ITSM ticket
+5. Sync corresponding inventory
+
