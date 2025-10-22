@@ -73,11 +73,16 @@ https://docs.google.com/presentation/d/1ojwF2MvQR0BcpCtyBuUmXA-CcS2BXUEF5jbwYvoh
 - CI/CD (including version control)
 
 ## Timeline
-```
+```mermaid
 timeline
+section Phase 1
 2 Weeks : Deploy and Configure AAP : Set up Git Repo structure
-8 Month : Develop automation for provisioning : Develop Playbooks & Workflow : Create & Configure APIs/Webhooks : Develop EDA Rulebook
-2 Weeks  : 
+section Phase 2
+2 Weeks : Develop automation for provisioning : Develop Playbooks & Workflow  
+2 Weeks : Create & Configure APIs/Webhooks  
+Section Phase 3
+2 Weeks: Deploy EDA Rulebook & Testing
+1 Week : Customer Handoff
 ```
 
 ## Content Development Strategy
