@@ -57,20 +57,17 @@ https://docs.google.com/presentation/d/1ojwF2MvQR0BcpCtyBuUmXA-CcS2BXUEF5jbwYvoh
 
 ## Scope
 ### Resources
-- 4 Consultants
+- 2 Consultants
 - 1 Architect
 - 1 Project Manager
 
 ### Tasks within Scope
-- AAP installation
-- Configure Hardware (including Firmware) 
-- Install OS
-- EDA with ITSM
-- AAP (all of it)
-- Gather App requirements
-- USE golden image, not maintain
-- Craft communication strategy
+- AAP installation and basic configuration
+- Develop automation for server provisioning
+- Configure EDA integration with ITSM 
 - CI/CD (including version control)
+- Deploy 3 test servers
+- Hand over to customer
 
 ## Timeline
 ```mermaid
